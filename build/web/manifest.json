@@ -1,6 +1,6 @@
 {
-    "name": "schedule_reminder",
-    "short_name": "schedule_reminder",
+    "name": "TARC",
+    "short_name": "TARC",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
