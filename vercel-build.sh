@@ -28,3 +28,4 @@ echo "Building Flutter Web release..."
 flutter build web --release
 
 echo "=== Build completed successfully! ==="
+
